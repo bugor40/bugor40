@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bugor40
 - 👀 I’m interested in machine learning in bioinformatics.
 - 🌱 I’m currently learning at MIREA.
-- 💞️ I’m looking to collaborate on bioinformatics
 - 📫 How to reach me bugrov.arteom1@yandex.ru
 
 <!---
